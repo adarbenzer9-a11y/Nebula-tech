@@ -1,0 +1,8 @@
+{
+  "name": "Terk Edilmiş Ama Unutulmamış",
+  "description": "NASA'nın Ay ve Mars yüzeyinde bıraktığı tarihi ekipmanların hikayelerini, etkileşimli 2D teknik modellerini ve arşiv fotoğraflarını sunan dijital kozmik arkeoloji sergisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
